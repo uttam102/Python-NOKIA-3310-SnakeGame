@@ -4,6 +4,10 @@ A classic, retro-style implementation of the beloved Nokia 3310 Snake game, writ
 
 Experience the nostalgia of pure, simple, grid-based gameplay with an authentic LCD screen aesthetic!
 
+<div align="center">
+  <img src="demo.mp4" alt="Nokia 3310 Snake Game Demo" width="600"/>
+</div>
+
 ---
 
 ## ✨ Features
